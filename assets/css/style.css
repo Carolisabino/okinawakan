@@ -13,6 +13,10 @@ body {
   color: #444444;
 }
 
+.subtitle{
+  text-align: end;
+}
+
 a {
   font-family: "Open Sans", sans-serif;
   color: #444444;
